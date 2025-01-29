@@ -20,3 +20,6 @@ This project demonstrates the process of performing a perspective transform on i
 1. Use `image_capture.py` to capture images of a chessboard pattern for calibration.
 2. Run `calibration_finder.py` to find camera calibration.
 3. Apply `perspective_transform.py` for perspective manipulation.
+    ![Original Image](chessboard0.jpg)
+    ![Transformed Image](transformed_image.jpg)
+
